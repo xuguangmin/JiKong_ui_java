@@ -1,0 +1,5 @@
+this.setIconImage(getToolkit().getImage(resPath + "app.png"));
+//.add(PANEL_NAME_UIPAGE, m_cccUI.GetPanel());
+
+this.setIconImage(getToolkit().getImage(JMainFrame.class.getResource("\\res\\icon.png")));
+m_panelLogin.setImage(getToolkit().getImage(JMainFrame.class.getResource("\\res\\icon.png")));

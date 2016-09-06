@@ -1,0 +1,2 @@
+//String name = bLogin ? PANEL_NAME_LOGIN:PANEL_NAME_UIPAGE;
+		//((CardLayout)this.getContentPane().getLayout()).show(getContentPane(), name);
